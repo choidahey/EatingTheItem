@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Practice.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Practice.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\PracticeEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Practice">
+      <UniqueIdentifier>{E641FCF3-8684-371A-AA2C-CA08D70A9B46}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Practice\Practice.Build.cs">
+      <Filter>Source\Practice</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Practice\Practice.cpp">
+      <Filter>Source\Practice</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Practice\Practice.h">
+      <Filter>Source\Practice</Filter>
+    </ClCompile>
+    <Filter Include="Source\Practice\Private">
+      <UniqueIdentifier>{5BC97888-23DD-381B-A34A-1CD439A19B9A}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Practice\Private\BaseItem.cpp">
+      <Filter>Source\Practice\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Practice\Private\BigCoinItem.cpp">
+      <Filter>Source\Practice\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Practice\Private\CoinItem.cpp">
+      <Filter>Source\Practice\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Practice\Private\HealingItem.cpp">
+      <Filter>Source\Practice\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Practice\Private\HPBarWidget.cpp">
+      <Filter>Source\Practice\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Practice\Private\Item.cpp">
+      <Filter>Source\Practice\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Practice\Private\ItemInterface.cpp">
+      <Filter>Source\Practice\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Practice\Private\ItemSpawnRow.cpp">
+      <Filter>Source\Practice\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Practice\Private\MineItem.cpp">
+      <Filter>Source\Practice\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Practice\Private\MyCharacter.cpp">
+      <Filter>Source\Practice\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Practice\Private\MyGameInstance.cpp">
+      <Filter>Source\Practice\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Practice\Private\MyGameMode.cpp">
+      <Filter>Source\Practice\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Practice\Private\MyGameState.cpp">
+      <Filter>Source\Practice\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Practice\Private\MyPawn.cpp">
+      <Filter>Source\Practice\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Practice\Private\MyPlayerController.cpp">
+      <Filter>Source\Practice\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Practice\Private\SlowingItem.cpp">
+      <Filter>Source\Practice\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Practice\Private\SmallCoinItem.cpp">
+      <Filter>Source\Practice\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Practice\Private\SpawnVolume.cpp">
+      <Filter>Source\Practice\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\Practice\Public">
+      <UniqueIdentifier>{1FB58AFC-2A7B-3CC0-9097-7A558A1FCB6C}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Practice\Public\BaseItem.h">
+      <Filter>Source\Practice\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Practice\Public\BigCoinItem.h">
+      <Filter>Source\Practice\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Practice\Public\CoinItem.h">
+      <Filter>Source\Practice\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Practice\Public\HealingItem.h">
+      <Filter>Source\Practice\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Practice\Public\HPBarWidget.h">
+      <Filter>Source\Practice\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Practice\Public\Item.h">
+      <Filter>Source\Practice\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Practice\Public\ItemInterface.h">
+      <Filter>Source\Practice\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Practice\Public\ItemSpawnRow.h">
+      <Filter>Source\Practice\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Practice\Public\MineItem.h">
+      <Filter>Source\Practice\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Practice\Public\MyCharacter.h">
+      <Filter>Source\Practice\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Practice\Public\MyGameInstance.h">
+      <Filter>Source\Practice\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Practice\Public\MyGameMode.h">
+      <Filter>Source\Practice\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Practice\Public\MyGameState.h">
+      <Filter>Source\Practice\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Practice\Public\MyPawn.h">
+      <Filter>Source\Practice\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Practice\Public\MyPlayerController.h">
+      <Filter>Source\Practice\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Practice\Public\SlowingItem.h">
+      <Filter>Source\Practice\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Practice\Public\SmallCoinItem.h">
+      <Filter>Source\Practice\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Practice\Public\SpawnVolume.h">
+      <Filter>Source\Practice\Public</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

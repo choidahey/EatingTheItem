@@ -1,0 +1,46 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/UE5_project/Practice/Content/Blueprint/BP_MyItem.uasset",
+				"D:/UE5_project/Practice/Content/Blueprint/BP_MyGameMode.uasset",
+				"D:/UE5_project/Practice/Content/Blueprint/BP_MyCharacter.uasset",
+				"D:/UE5_project/Practice/Content/Blueprint/BP_MyPlayerController.uasset",
+				"D:/UE5_project/Practice/Content/Inputs/IA_Move.uasset",
+				"D:/UE5_project/Practice/Content/Inputs/IA_Jump.uasset",
+				"D:/UE5_project/Practice/Content/Inputs/IA_Sprint.uasset",
+				"D:/UE5_project/Practice/Content/Inputs/IA_Look.uasset",
+				"D:/UE5_project/Practice/Content/Inputs/IMC_Character.uasset",
+				"D:/UE5_project/Practice/Content/Blueprint/ABP_Character.uasset",
+				"D:/UE5_project/Practice/Content/Resources/Characters/Animations/Manny/BS_MM_WalkRun.uasset",
+				"D:/UE5_project/Practice/Content/Blueprint/BP_BigCoinItem.uasset",
+				"D:/UE5_project/Practice/Content/Blueprint/BP_HealingItem.uasset",
+				"D:/UE5_project/Practice/Content/Blueprint/BP_MineItem.uasset",
+				"D:/UE5_project/Practice/Content/Blueprint/BP_SmallCoinItem.uasset",
+				"D:/UE5_project/Practice/Content/Maps/AdvancedLevel.umap",
+				"D:/UE5_project/Practice/Content/Maps/BasicLevel.umap",
+				"D:/UE5_project/Practice/Content/Maps/IntermediateLevel.umap",
+				"D:/UE5_project/Practice/Content/Blueprint/BP_SpawnVolume.uasset",
+				"D:/UE5_project/Practice/Content/Blueprint/ItemSpawnTable.uasset",
+				"D:/UE5_project/Practice/Content/Blueprint/BP_MyGameState.uasset",
+				"D:/UE5_project/Practice/Content/Blueprint/BP_MyGameInstance.uasset",
+				"D:/UE5_project/Practice/Content/UI/WBP_HUD.uasset",
+				"D:/UE5_project/Practice/Content/UI/WBP_MainMenu.uasset",
+				"D:/UE5_project/Practice/Content/Maps/MenuLevel.umap",
+				"D:/UE5_project/Practice/Content/UI/WBP_HP.uasset",
+				"D:/UE5_project/Practice/Content/UI/png-transparent-shutdown-button-computer-icons-restart-text-trademark-sign.uasset",
+				"D:/UE5_project/Practice/Content/UI/WBP_HPBar.uasset",
+				"D:/UE5_project/Practice/Content/Maps/ItemSpawnTable.uasset",
+				"D:/UE5_project/Practice/Content/Maps/MainLevel.umap",
+				"D:/UE5_project/Practice/Content/Resources/Maps/IntermediateLevel.umap",
+				"D:/UE5_project/Practice/Content/Resources/Maps/BasicLevel.umap",
+				"D:/UE5_project/Practice/Content/Resources/Maps/AdvancedLevel.umap",
+				"D:/UE5_project/Practice/Content/Blueprint/NewBlueprint.uasset",
+				"D:/UE5_project/Practice/Content/NewBlueprint.uasset"
+			]
+		}
+	]
+}

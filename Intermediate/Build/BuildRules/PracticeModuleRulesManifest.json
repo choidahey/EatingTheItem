@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\UE5_project\\Practice\\Source\\Practice\\Practice.Build.cs",
+		"D:\\UE5_project\\Practice\\Source\\Practice.Target.cs",
+		"D:\\UE5_project\\Practice\\Source\\PracticeEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.3"
+}

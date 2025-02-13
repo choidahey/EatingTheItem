@@ -1,4 +1,4 @@
-# EatingTheItem
+# ✒️EatingTheItem
 
 언리얼 엔진을 사용하여 제작한 웨이브 별로 점수를 쌓는 간단한 게임입니다.
 
@@ -7,8 +7,8 @@
 
 코인은 총 2종류(황금코인(15점), 코인(5))로 구성하였습니다.
 방해 아이템은 지뢰로 구성하였고, 지뢰를 밟은 뒤 n초 후에 터지는 것을 구현하였습니다.
-
-
+#
+#
 
 # 🔗 Youtube URL
 [![Video Label](http://img.youtube.com/vi/hq2zy3_4oKw/0.jpg)](https://youtu.be/hq2zy3_4oKw)
